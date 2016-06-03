@@ -1,0 +1,35 @@
+
+<div class="m-index">
+	<header>
+	  <ul>
+	  	<li>
+	      <img src="../../../images/img/matou.jpg"><b>全日通</b>	
+	    </li>  
+	   <form action="forml">
+       <a href="javascript(0)">
+	   	  <img src="../../../images/img/terminal_query_sousuo.png">
+	   </a>
+	   
+		<input type="text" placeholder="商品名或商家、礼券" class="txt"/>
+			
+		</form>
+	    <li class="shangp">
+	    	<img src="../../../images/img/gouwuc.jpg">
+	    </li>
+	  </ul>
+	</header>	
+	<section>
+		<div class="swiper-container banner">
+		    <div class="swiper-wrapper">
+		        <div class="swiper-slide">Slide 1</div>
+		        <div class="swiper-slide">Slide 2</div>
+		        <div class="swiper-slide">Slide 3</div>
+		        <div class="swiper-slide">Slide 4</div>
+		    </div>
+		    <div class="swiper-pagination"></div>
+		</div>
+		<nav></nav>
+		<div class="main"></div>
+	</section>
+	<footer></footer>
+</div>
